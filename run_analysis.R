@@ -1,3 +1,5 @@
+##step 0: load packages
+library(dplyr)
 ##step 1: download file
 download.file(url, 
               destfile = "C:/Users/Clayton/Desktop/Course Project/Getting-and-Cleaning-Data/Samsung Data/Samsung Data.zip")
